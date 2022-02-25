@@ -6,7 +6,8 @@ Seja bem vindo ao My Oso Adventures 2! Neste jogo, você tem a missão de tirar 
 paralela para onde ele foi transportado! Conheça os comandos e vença essa missão:
 
 - Setas Direcionais do Teclado: Andar em todas as direções - Tecla de Espaço: Pular 
-- Teclas < e >: Girar Câmeras: L - Lateral, C - Principal, B - Câmera Fundo
+- Teclas < e >: Girar 
+- Câmeras: L - Lateral, C - Principal, B - Câmera Fundo
 
 . Se o Oso encostar nas paredes ou no teto, o jogo reinicia;
 . Os pedaços de madeira são mortais;
