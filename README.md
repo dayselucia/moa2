@@ -1,3 +1,5 @@
+Link para download do jogo (.rar): https://drive.google.com/file/d/1KjgtOBRQ1KCh1qxnN4CAsoXLExAEjvUf/view?usp=sharing
+
 # moa2
 Jogo gratuito My Oso Adventures 2 construído utilizando o programa Blender 2.79!
 
@@ -14,3 +16,7 @@ paralela para onde ele foi transportado! Conheça os comandos e vença essa miss
 . As pequenas esferas podem ser coletadas;
 . E essa bola laranja? Um mistério...
 . Passe pela porta para avançar de fase!
+
+24/02/2022 - Lançamento da Versão Oficial v.1.0.2
+
+Link para download do jogo (.rar): https://drive.google.com/file/d/1KjgtOBRQ1KCh1qxnN4CAsoXLExAEjvUf/view?usp=sharing
